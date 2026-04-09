@@ -153,4 +153,4 @@ Smart-Energy-Meter/
 │── README.md
 
 
-## Author: G.Malleshwari 
+## Author : P.Sowmya Sri
